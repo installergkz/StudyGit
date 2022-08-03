@@ -117,25 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Имя</value>
-  </data>
   <data name="DisplayName" xml:space="preserve">
-    <value>Обращения</value>
+    <value>ExternalRequest</value>
   </data>
-  <data name="Property_Number" xml:space="preserve">
-    <value>Номер обращения</value>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>ExternalRequest</value>
   </data>
-  <data name="Property_Description" xml:space="preserve">
-    <value>Описание</value>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>ExternalRequest</value>
   </data>
-  <data name="Property_CreatedDate" xml:space="preserve">
-    <value>Дата создания</value>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Author</value>
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ответственный</value>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Result</value>
   </data>
-  <data name="Property_Index" xml:space="preserve">
-    <value>Индекс</value>
+  <data name="ControlGroup_c67a18a617b74b03bae38dc9896de67c" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_dea0dfa5f35741cbb93303a85b58b21a" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_dea0dfa5f35741cbb93303a85b58b21a_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_918c424b4c0f4f2e83e8ec934c8622db" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_b08538ee1b7a406b84171bab7ff3ea4e" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_8e0321f5b0ab4001bd12ab1755b78a16" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_8e0321f5b0ab4001bd12ab1755b78a16_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_c54da43256ff487b912d6f24dbd559a3" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_c54da43256ff487b912d6f24dbd559a3_EmptyText" xml:space="preserve">
+    <value />
   </data>
 </root>
